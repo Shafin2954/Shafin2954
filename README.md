@@ -33,7 +33,7 @@ Studying statistics at ISRT. On the side, I build full-stack apps and ML tools �
 |---------|-------------|-------|
 | [**Fixeth**](https://github.com/Shafin2954/Fixeth) | Bengali-first LMS: adaptive career tracks, Whisper transcription, Judge0 code execution, bKash & SSLCommerz payments | Next.js 14 · TypeScript · MongoDB · Supabase · Redis |
 | [**learning-deep**](https://github.com/Shafin2954/learning-deep) | ML/DS course where every lesson runs a live, stateful Python kernel in the browser — real imports, GPU support, persistent notebook | Next.js · MDX · Python |
-| [**Trace**](https://github.com/Shafin2954/anything) | Draw a route by hand on a map; it snaps to real roads and trails via Mapbox map-matching. Live distance, GPX export, shareable URL-encoded routes | Next.js 15 · TypeScript · Mapbox GL |
+| [**Trace**](https://github.com/Shafin2954/trace) | Draw a route by hand on a map; it snaps to real roads and trails via Mapbox map-matching. Live distance, GPX export, shareable URL-encoded routes | Next.js 15 · TypeScript · Mapbox GL |
 | [**Elements**](https://github.com/Shafin2954/elements) | Falling-sand cellular automata — 20 elements, Wireworld electricity, bloom/glow. Zero dependencies. [Live demo ↗](https://shafin2954.github.io/elements/) | Vanilla JS · Canvas |
 
 #### Tools & Experiments
