@@ -8,7 +8,7 @@
 
 ### About Me
 
-Studying statistics at IASDS. On the side, I build full-stack apps and ML tools — mostly things useful in the Bangladeshi context: Bangla NLP, local payment integrations, localized platforms.
+Studying Applied Statistics and Data Science at IASDS. On the side, I build full-stack apps and ML tools — mostly things useful in the Bangladeshi context: Bangla NLP, local payment integrations, localized platforms.
 
 - Working on **Fixeth** — a Bengali-first, job-ready learning platform
 - Competed in the **bKash × NSUCEC Datathon** — 0.9852 AUC-ROC on a 73M-transaction churn dataset (Team Fixeth)
